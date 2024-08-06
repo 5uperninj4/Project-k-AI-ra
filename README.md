@@ -5,6 +5,18 @@ Project k(AI)ra is a chatbot based on pytorch with abilities to interact with hu
 Text output is trained on the DailyDialogue dataset.
 
 ## Current implementations:
--  text input
--  text output
+-  Text input
+-  Text output
 -  Vtube studio link
+
+
+## To be added:
+-  Speech recognition 
+-  Speech output
+-  Screen vision
+-  Singing
+
+
+## Constantly being improved:
+-  Latency
+-  Intelligence
