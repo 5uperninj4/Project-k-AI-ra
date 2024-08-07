@@ -15,6 +15,7 @@ Text output is trained on the DailyDialogue dataset.
 -  Speech output
 -  Screen vision
 -  Singing
+-  Vtube Studio interaction
 
 
 ## Constantly being improved:
