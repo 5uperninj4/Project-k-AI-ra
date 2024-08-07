@@ -20,3 +20,4 @@ Text output is trained on the DailyDialogue dataset.
 ## Constantly being improved:
 -  Latency
 -  Intelligence
+-  Legibility of printouts
