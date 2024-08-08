@@ -22,3 +22,6 @@ Text output is trained on the DailyDialogue dataset.
 -  Latency
 -  Intelligence
 -  Legibility of printouts
+
+Daily Dialogue on Huggingface = 
+https://huggingface.co/datasets/li2017dailydialog/daily_dialog
